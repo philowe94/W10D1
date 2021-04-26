@@ -1,0 +1,2 @@
+
+let $l = function(arg) {}
